@@ -1,5 +1,5 @@
-# reactjs-sample-sass
-ReactApp sample using SASS library for JS and JSX
+# ReactJS App with SASS
+Hello this is a ReactJS App using SASS library for JS and JSX
 
 
 # Getting Started with Create React App
